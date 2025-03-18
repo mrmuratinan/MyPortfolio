@@ -21,6 +21,7 @@ These are some small projects I made using JavaScript.
 * [Pizza Menu](https://github.com/mrmuratinan/MyRepository/tree/main/JavaScript-Projects/Pizza_Project)
 * [Tic-Tac-Toe Game](https://github.com/mrmuratinan/MyRepository/tree/main/JavaScript-Projects/TicTacToe)
 * [Calculator](https://github.com/mrmuratinan/MyRepository/tree/main/JavaScript-Projects/Calculator)
+* [Car Insurance](https://github.com/mrmuratinan/CarInsurance)
 
 ## Pizza Menu
 This project is a menu used to order pizza with a various selection of toppings. It then takes the input information and calculates a price for the order.
@@ -30,3 +31,6 @@ The classic game of tic-tac-toe.
 
 ## Calculator
 A basic 4 function calculator.
+
+## Car Insurance
+This projects is a MVC application that mimics a simple car Insurance website.
